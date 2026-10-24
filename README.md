@@ -8,8 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/121kirillmorti/avtobys.kz-qr-generator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-avtobys-kz-qr-generator-dark.svg"><img src="assets/project-avtobys-kz-qr-generator-light.svg" width="49%" alt="avtobys.kz-qr-generator"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
