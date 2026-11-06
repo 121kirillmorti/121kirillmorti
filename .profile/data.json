@@ -1,13 +1,17 @@
 {
- "key": "e68b2b16",
+ "key": "4c1a6e65",
  "stars": 1,
- "contributions": 22,
- "repos": 3,
+ "contributions": 23,
+ "repos": 4,
  "followers": 0,
  "languages": [
   [
    "Kotlin",
-   234308
+   393037
+  ],
+  [
+   "C#",
+   110290
   ],
   [
    "HTML",
@@ -120,7 +124,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 3,
     "day": 6,
     "today": true
    },
@@ -151,6 +155,25 @@
     "offline",
     "open-source",
     "russian"
+   ]
+  },
+  {
+   "name": "justvibrait",
+   "url": "https://github.com/121kirillmorti/justvibrait",
+   "text": "Vibration synced to music - Android app (Kotlin/Compose) with live FFT/bass analysis, AudioPlaybackCapture and mic, plus Windows vibrator monitor (UDP 45454)",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "jetpack-compose",
+    "kotlin",
+    "material-you",
+    "monitoring",
+    "music",
+    "udp",
+    "vibration",
+    "windows"
    ]
   },
   {
