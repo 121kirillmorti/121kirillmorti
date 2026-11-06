@@ -1,10 +1,23 @@
 {
- "key": "70e0d0d5",
- "stars": 0,
- "contributions": 20,
- "repos": 2,
+ "key": "e68b2b16",
+ "stars": 1,
+ "contributions": 22,
+ "repos": 3,
  "followers": 0,
- "languages": [],
+ "languages": [
+  [
+   "Kotlin",
+   234308
+  ],
+  [
+   "HTML",
+   61519
+  ],
+  [
+   "Python",
+   11481
+  ]
+ ],
  "days": [
   [
    {
@@ -107,7 +120,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 6,
     "today": true
    },
@@ -115,11 +128,31 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 2
  },
  "pins": [],
  "all": [
+  {
+   "name": "tetris-you",
+   "url": "https://github.com/121kirillmorti/tetris-you",
+   "text": "Material You tetris for Android - offline, bilingual (RU/EN), no ads. Kotlin + Jetpack Compose.",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "android-game",
+    "english",
+    "jetpack-compose",
+    "kotlin",
+    "material-you",
+    "material3",
+    "offline",
+    "open-source",
+    "russian"
+   ]
+  },
   {
    "name": "121kirillmorti",
    "url": "https://github.com/121kirillmorti/121kirillmorti",
