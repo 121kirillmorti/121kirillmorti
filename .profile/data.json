@@ -1,17 +1,21 @@
 {
- "key": "e785ef00",
+ "key": "c07eb478",
  "stars": 1,
- "contributions": 30,
- "repos": 4,
+ "contributions": 39,
+ "repos": 5,
  "followers": 0,
  "languages": [
   [
    "Kotlin",
-   393037
+   610325
   ],
   [
    "C#",
    110290
+  ],
+  [
+   "C++",
+   66880
   ],
   [
    "HTML",
@@ -19,7 +23,11 @@
   ],
   [
    "Python",
-   11481
+   21799
+  ],
+  [
+   "C",
+   496
   ]
  ],
  "days": [
@@ -99,7 +107,7 @@
   ],
   [
    {
-    "c": 0,
+    "c": 9,
     "day": 8,
     "today": true
    },
@@ -112,8 +120,8 @@
   ]
  ],
  "streak": {
-  "current": 2,
-  "longest": 2
+  "current": 3,
+  "longest": 3
  },
  "pins": [],
  "all": [
@@ -135,6 +143,26 @@
     "offline",
     "open-source",
     "russian"
+   ]
+  },
+  {
+   "name": "stickcommander",
+   "url": "https://github.com/121kirillmorti/stickcommander",
+   "text": "Android app + Bruce 1.16.1 firmware for the M5StickC Plus 2: live menu, screen mirror, IR blaster, LittleFS manager, terminal.",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "bluetooth-le",
+    "bruce-firmware",
+    "esp32",
+    "ir-remote",
+    "jetpack-compose",
+    "kotlin",
+    "m5stack",
+    "m5stickc-plus2",
+    "usb-serial"
    ]
   },
   {
