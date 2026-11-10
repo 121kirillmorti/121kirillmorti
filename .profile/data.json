@@ -1,6 +1,6 @@
 {
- "key": "c8943117",
- "stars": 1,
+ "key": "78c0f15c",
+ "stars": 3,
  "contributions": 39,
  "repos": 5,
  "followers": 0,
@@ -114,9 +114,13 @@
    {
     "c": 0,
     "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -124,37 +128,17 @@
   ]
  ],
  "streak": {
-  "current": 3,
+  "current": 0,
   "longest": 3
  },
  "pins": [],
  "all": [
   {
-   "name": "tetris-you",
-   "url": "https://github.com/121kirillmorti/tetris-you",
-   "text": "Material You tetris for Android - offline, bilingual (RU/EN), no ads. Kotlin + Jetpack Compose.",
-   "fork": false,
-   "stars": 1,
-   "language": "Kotlin",
-   "topics": [
-    "android",
-    "android-game",
-    "english",
-    "jetpack-compose",
-    "kotlin",
-    "material-you",
-    "material3",
-    "offline",
-    "open-source",
-    "russian"
-   ]
-  },
-  {
    "name": "stickcommander",
    "url": "https://github.com/121kirillmorti/stickcommander",
    "text": "Android app + Bruce 1.16.1 firmware for the M5StickC Plus 2: live menu, screen mirror, IR blaster, LittleFS manager, terminal.",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Kotlin",
    "topics": [
     "android",
@@ -174,7 +158,7 @@
    "url": "https://github.com/121kirillmorti/justvibrait",
    "text": "Vibration synced to music - Android app (Kotlin/Compose) with live FFT/bass analysis, AudioPlaybackCapture and mic, plus Windows vibrator monitor (UDP 45454)",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Kotlin",
    "topics": [
     "android",
@@ -186,6 +170,26 @@
     "udp",
     "vibration",
     "windows"
+   ]
+  },
+  {
+   "name": "tetris-you",
+   "url": "https://github.com/121kirillmorti/tetris-you",
+   "text": "Material You tetris for Android - offline, bilingual (RU/EN), no ads. Kotlin + Jetpack Compose.",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "android-game",
+    "english",
+    "jetpack-compose",
+    "kotlin",
+    "material-you",
+    "material3",
+    "offline",
+    "open-source",
+    "russian"
    ]
   },
   {
