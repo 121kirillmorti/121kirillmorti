@@ -1,6 +1,6 @@
 {
- "key": "bfcddc95",
- "stars": 3,
+ "key": "ba48d2b5",
+ "stars": 4,
  "contributions": 41,
  "repos": 6,
  "followers": 0,
@@ -142,7 +142,7 @@
    "url": "https://github.com/121kirillmorti/stickcommander",
    "text": "Android app + Bruce 1.16.1 firmware for the M5StickC Plus 2: live menu, screen mirror, IR blaster, LittleFS manager, terminal.",
    "fork": false,
-   "stars": 1,
+   "stars": 2,
    "language": "Kotlin",
    "topics": [
     "android",
