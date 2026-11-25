@@ -1,8 +1,8 @@
 {
- "key": "21e2b6c8",
+ "key": "53926b74",
  "stars": 5,
- "contributions": 47,
- "repos": 7,
+ "contributions": 48,
+ "repos": 8,
  "followers": 0,
  "languages": [
   [
@@ -18,20 +18,20 @@
    110290
   ],
   [
-   "HTML",
-   83095
+   "JavaScript",
+   92996
   ],
   [
-   "JavaScript",
-   76628
+   "HTML",
+   86764
   ],
   [
    "Python",
-   58819
+   63840
   ],
   [
    "CSS",
-   33610
+   42157
   ]
  ],
  "days": [
@@ -126,7 +126,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 25,
     "today": true
    },
@@ -136,7 +136,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 3
  },
  "pins": [],
@@ -199,6 +199,15 @@
     "open-source",
     "russian"
    ]
+  },
+  {
+   "name": "ascii-reel",
+   "url": "https://github.com/121kirillmorti/ascii-reel",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
   },
   {
    "name": "m5wheel-ets2",
